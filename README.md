@@ -1,1 +1,5 @@
-Hospital patient record system is a simple c project.created with the usage of c concepts like structure and function application  in which user can add details of the patients like patient id ,patient name, disease and can create a record of the patient for further reference.
+Hospital patient record system is a simple c project.created with the usage of c concepts like structure and function . It can be used as a record of the patient for further reference.
+user can add details of patientslike:
+-patient id
+-patient name
+-disease
